@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around
+}
+
+.header {
+    margin-top: 40px;
+    padding: 50px;
+
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_menu {}
+
+.menu_link {
+    margin: 10px;
+}
+
+.button_box {
+    padding: 40px 0px 0px 0px;
+}
+
+.orange_button {
+    margin: 10px;
+}
+
+.footer {
+    margin: 40px
+}
